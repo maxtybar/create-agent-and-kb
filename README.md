@@ -1,10 +1,4 @@
-# Authors:
-
-Mark Roy @roymark
-Max Tybar @maxtybar
-Paul Min @paulmin
-
-**Side note: If you want to use AWS CDK BedrockAgent construct to deploy agents and knowledge bases, feel free to check out [npm package](https://www.npmjs.com/package/bedrock-agents-cdk?activeTab=readme) repository.**
+**Side note: If you want to use AWS CDK BedrockAgent construct to deploy agents and knowledge bases, feel free to check out my [npm package](https://www.npmjs.com/package/bedrock-agents-cdk?activeTab=readme) repository.**
 
 # Options to deploy
 1. Using AWS CDK. Click [here](./cdk-deployment) if you want to go this route.
